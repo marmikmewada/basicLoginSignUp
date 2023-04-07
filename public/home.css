@@ -1,0 +1,12 @@
+/* home.hbs */
+body {
+    background-color: #E6ECF0;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #1DA1F2;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
